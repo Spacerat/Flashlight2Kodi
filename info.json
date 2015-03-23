@@ -1,0 +1,16 @@
+{
+  "categories" : [
+    "Utilities"
+  ],
+  "displayName" : "KodiCtrl",
+  "name" : "youtubexbmc",
+  "description" : "Send youtube videos to Kodi/XBMC",
+  "examples" : [
+    "kodiyt Youtube Search",
+    "kodisc Scoundcloud Search",
+    "kodi stop",
+    "kodi play"
+  ],
+  "creator_name": "Joseph Atkins-Turkish",
+  "creator_url": "http://veryjoe.com"
+}

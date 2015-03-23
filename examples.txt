@@ -1,0 +1,5 @@
+kodi
+kodiyt ~keywords(Funny cat videos)
+kodisc ~keywords(Musics)
+kodi play
+kodi stop

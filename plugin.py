@@ -8,9 +8,9 @@ from xbmcjson import XBMC, PLAYER_VIDEO
 from soundcloudSearch import SoundcloudSearch
 
 YOUTUBE_KEY = "AIzaSyDYJ8TlWYDc1JYjivcByjJ9gHzZGLP1qNI"
-XBMC_URL = "http://10.42.69.10:8080/jsonrpc"
-XBMC_USER = "admin"
-XBMC_PASSWORD = "entertheddwrt"
+XBMC_URL = "http://localhost:8080/jsonrpc"
+XBMC_USER = "ADMIN"
+XBMC_PASSWORD = "PASSWORD"
 
 def format_videos(videos, kind):
 	return [{
